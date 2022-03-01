@@ -7,3 +7,6 @@
 [submodule "ft_printf-42-cursus"]
 	path = ft_printf-42-cursus
 	url = https://github.com/Mou-SED/ft_printf-42-cursus.git
+[submodule "Born2beroot-42-cursus"]
+	path = Born2beroot-42-cursus
+	url = https://github.com/Mou-SED/Born2beroot-42-cursus.git
