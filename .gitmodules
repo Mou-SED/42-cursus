@@ -4,3 +4,6 @@
 [submodule "get_next_line-42-cursus"]
 	path = get_next_line-42-cursus
 	url = https://github.com/Mou-SED/get_next_line-42-cursus.git
+[submodule "ft_printf-42-cursus"]
+	path = ft_printf-42-cursus
+	url = https://github.com/Mou-SED/ft_printf-42-cursus.git
