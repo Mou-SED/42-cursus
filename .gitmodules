@@ -1,3 +1,6 @@
 [submodule "libft-42-cursus"]
 	path = libft-42-cursus
 	url = https://github.com/Mou-SED/libft-42-cursus.git
+[submodule "get_next_line-42-cursus"]
+	path = get_next_line-42-cursus
+	url = https://github.com/Mou-SED/get_next_line-42-cursus.git
