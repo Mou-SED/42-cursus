@@ -10,3 +10,6 @@
 [submodule "Born2beroot-42-cursus"]
 	path = Born2beroot-42-cursus
 	url = https://github.com/Mou-SED/Born2beroot-42-cursus.git
+[submodule "fract-ol-42-cursus"]
+	path = fract-ol-42-cursus
+	url = https://github.com/Mou-SED/fract-ol-42-cursus.git
